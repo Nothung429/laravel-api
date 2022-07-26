@@ -49609,9 +49609,9 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Francesco\Desktop\FSDeveloper\Tutorati\Esercizi-PHP\esercizio61\laravel-many-to-many\resources\js\app.js */"./resources/js/app.js");
-__webpack_require__(/*! C:\Users\Francesco\Desktop\FSDeveloper\Tutorati\Esercizi-PHP\esercizio61\laravel-many-to-many\resources\sass\app.scss */"./resources/sass/app.scss");
-module.exports = __webpack_require__(/*! C:\Users\Francesco\Desktop\FSDeveloper\Tutorati\Esercizi-PHP\esercizio61\laravel-many-to-many\resources\sass\front_office.scss */"./resources/sass/front_office.scss");
+__webpack_require__(/*! C:\Users\Francesco\Desktop\FSDeveloper\Tutorati\Esercizi-PHP\esercizio63\laravel-api\resources\js\app.js */"./resources/js/app.js");
+__webpack_require__(/*! C:\Users\Francesco\Desktop\FSDeveloper\Tutorati\Esercizi-PHP\esercizio63\laravel-api\resources\sass\app.scss */"./resources/sass/app.scss");
+module.exports = __webpack_require__(/*! C:\Users\Francesco\Desktop\FSDeveloper\Tutorati\Esercizi-PHP\esercizio63\laravel-api\resources\sass\front_office.scss */"./resources/sass/front_office.scss");
 
 
 /***/ })

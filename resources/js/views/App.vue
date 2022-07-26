@@ -1,15 +1,22 @@
 <template>
     <div>
-        <h1>CIAO</h1>
+        <BaseHeader/>
+        <BaseMain/>
+        <BaseFooter/>
     </div>
 </template>
 
 <script>
-export default {
-    name: 'App'
-}
+    import BaseHeader from '../components/blocks/BaseHeader.vue';
+    import BaseMain from '../components/blocks/BaseMain.vue';
+    import BaseFooter from '../components/blocks/BaseFooter.vue';
+
+    export default {
+        name: 'App',
+        components: {
+            BaseHeader,
+            BaseMain,
+            BaseFooter
+        },
+    }
 </script>
-
-<style>
-
-</style>
