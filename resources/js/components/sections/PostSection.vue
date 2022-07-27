@@ -5,7 +5,6 @@
                 <div class="card p-2">                    
                     <h3>{{post.title}}</h3>
                     <p class="text-truncate">{{post.content}}</p>
-                    <router-link :to="{ name: 'post' }">View More</router-link>
                 </div>
             </li>
         </ul>
